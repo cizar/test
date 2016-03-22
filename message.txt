@@ -1,1 +1,3 @@
 Hello
+Other text
+Fixing the code
